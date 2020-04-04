@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  En esta página encontrarás toda la información general relacionada con el estudio que estamos llevando a cabo alrededor de <i>Mecanismos de Diseño Participativo Virtuales en Situación de Crisis y/o Emergencia.</i>.
+  En esta página encontrarás toda la información general relacionada con el estudio que estamos llevando a cabo alrededor de <i>Mecanismos de Diseño Participativo Virtuales en Situación de Crisis y/o Emergencia.</i>
 </p>
 
 # Nombre del Estudio

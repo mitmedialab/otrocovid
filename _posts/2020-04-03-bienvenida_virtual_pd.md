@@ -14,6 +14,6 @@ Si tienes curiosidad de conocer el equipo detrás de este estudio, puedes revisa
 
 Si estás interede en llevar a cabo un estudio alrededor de tu iniciativa de Diseño Participativo Virtual (hackathons, design sprints), puedes enviarnos un correo electrónico a [virtualpd@mit.edu](mailto:virtualpd@mit.edu)
 
-Si eres parte de alguno de los estudios actualmente en curso, encuentras toda la información acerca de la los mismos en ["#FrenaLaCurva"](https://github.com/), ["#VenceAlVirus"](https://github.com/) y ["#CadaDiaCuenta"](https://github.com/).
+Si eres parte de alguno de los estudios actualmente en curso, encuentras toda la información acerca de la los mismos en ["#FrenaLaCurva"](https://mitmedialab.github.io/virtualpd/category/FrenaLaCurva.html), ["#VenceAlVirus"](https://mitmedialab.github.io/virtualpd/category/VenceAlVirus.html) y ["#CadaDiaCuenta"](https://mitmedialab.github.io/virtualpd/category/CadaDiaCuenta.html).
 
 Si tienes alguna pregunta acerca de alguno de estos estudios, puedes enviar un mensaje a Victoria Palacin [victoria.palacin@lut.fi](mailto:victoria.palacin@lut.fi) o Pedro Reynolds-Cuéllar [pcuellar@mit.edu](mailto:pcuellar@mit.edu).
