@@ -4,7 +4,7 @@ title: Estudio "Mecanismos de Diseño Participativo Virtual"
 excerpt_separator:  <!--more-->
 ---
 
-### Bienvenides
+### Bienvenidxs
 
 Bienvenides a la página de información del estudio *Mecanismos de Diseño Participativo Virtuales en Situación de Crisis y/o Emergencia*.
 
@@ -12,7 +12,7 @@ Si estás interesades en obtener información general acerca del estudio, su mot
 
 Si tienes curiosidad de conocer el equipo detrás de este estudio, puedes revisar sus perfiles siguiendo este enlace.
 
-Si estás interede en llevar a cabo un estudio alrededor de tu iniciativa de Diseño Participativo Virtual (hackathons, design sprints), puedes enviarnos un correo electrónico a [virtualpd@mit.edu](mailto:virtualpd@mit.edu)
+Si estás interesadx en llevar a cabo un estudio alrededor de tu iniciativa de Diseño Participativo Virtual (hackathons, design sprints), puedes enviarnos un correo electrónico a [virtualpd@mit.edu](mailto:virtualpd@mit.edu)
 
 Si eres parte de alguno de los estudios actualmente en curso, encuentras toda la información acerca de la los mismos en ["#FrenaLaCurva"](https://mitmedialab.github.io/virtualpd/category/FrenaLaCurva.html), ["#VenceAlVirus"](https://mitmedialab.github.io/virtualpd/category/VenceAlVirus.html) y ["#CadaDiaCuenta"](https://mitmedialab.github.io/virtualpd/category/CadaDiaCuenta.html).
 
