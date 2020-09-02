@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Virtual PD
-tagline:          'Diseño Participativo Virtual'
+title:            Otro COVID
+tagline:          'Colaboración Virtual Distribuida'
 description:      'Estudio en Mecanismos de Diseño Participativo en Situación de Emergencia'
-url:              https://mitmedialab.github.io/virtualpd/
-baseurl:          '/virtualpd'
+url:              https://mitmedialab.github.io/otrocovid/
+baseurl:          '/otrocovid'
 remote_theme:     fongandrew/hydeout
 google_analytics: UA-162801606-1
                   # the optional subpath of your site, e.g. "/blog"
