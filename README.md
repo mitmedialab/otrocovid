@@ -1,6 +1,6 @@
-# Repositorio para el Estudio en Mecanismos de Diseño Participativo en Situación de Emergencia
+# Repositorio para el Proyecto de Investigación "Otro COVID: Colaboración Virtual Distribuida"
 
-Este repositorio recoge la información general de los estudios llevados a cabo en el contexto de la investigación **Mecanismos de Diseño Participativo Virtuales en Situación de Crisis y/o Emergencia.**
+Este repositorio recopila la información del proyecto de investigación "Otro COVID: Colaboración Virtual Distribuida", llevado a cabo bajo el protocolo IRB #E-2074 del Massachusetts Institute of Technology **Mecanismos de Diseño Participativo Virtuales en Situación de Crisis y/o Emergencia.**
 
 ### Uso
 
