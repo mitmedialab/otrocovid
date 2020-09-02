@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Otro CoViD
 tagline:          'Colaboración Virtual Distribuida'
 description:      'Colaboración Virtual Distribuida'
-url:              https://mitmedialab.github.io/otrocovid/
-baseurl:          '/otrocovid'
+url:              "https://otrocovid.co"
+# baseurl:          '/otrocovid'
 remote_theme:     fongandrew/hydeout
 google_analytics: UA-162801606-1
                   # the optional subpath of your site, e.g. "/blog"
